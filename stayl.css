@@ -14,13 +14,19 @@ border-radius:4px;
 
 }
 p{font-family:yekan;
-background-color: rgb(223, 220, 255);
+background-color: rgb(145, 167, 223);
 border-radius:4px;
 font-size:19px;
+margin: 15px;;
 }
 
 h2{font-family:yekan;
 font-size:30px;
+background-color:rgb(130, 179, 195);
+border-radius:16px;
+margin-left:900px;
+
+
 }
 
 h3{font-family:yekan;
@@ -35,7 +41,14 @@ body{background-color:rgb(241, 237, 237);
 
 
 }
-img{border-radius:15px;
+img{border-radius:17px;
 
 
 }
+h4{font-family:yekan;
+
+	font-size:30px;
+}
+
+
+
